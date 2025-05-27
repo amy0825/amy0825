@@ -22,18 +22,35 @@ I'm a multidisciplinary data analyst with a strong foundation in finance, IT, an
 - Generative AI in enterprise tools  
 - DataOps and scalable data pipelines
 
-## 📫 Let's Connect!
-
-- 📧 Email: [Amy04Liu@gmail.com](mailto:Amy04Liu@gmail.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/amyliu0825/]
-- 🧪 Exploring: Generative AI for business tools, DataOps, scalable ML pipelines
-
 ---
 ## 🚀 Projects
 
-### 🔧 Data Engineering Projects
+### Data Engineering
 
 | Project Link | Completion Date | Tools | Project Description |
 |--------------|-----------------|-------|----------------------|
-| 🌐 [IP Visualisation](https://github.com/amy0825/Map_mini_project) | Dec 2023 | Python, GCP (Storage, Compute Engine, SQL, VM), JavaScript, CRUD | Designed and implemented a full-stack web application to visualise IP geolocation, with user login functionality and search history logging, deployed on Google Cloud using Flask and Cloud SQL. |
+|[Real-Time Health Monitoring](#)|Jul 2024|Python, Flask, BigQuery, GNB, ETL|----------------------|
 | 🚗 [New York City Taxi](#) | Feb 2024 | Python, PySpark, Hadoop, SQL, S3 Bucket, Jupyter Notebook | Led and optimized a large-scale PySpark ETL pipeline to process 69 million NYC rideshare records, improving computation efficiency by 30% and uncovering key geographic and temporal demand patterns. |
+| 🌐 [IP Visualisation](https://github.com/amy0825/Map_mini_project) | Dec 2023 | Python, GCP (Storage, Compute Engine, SQL, VM), JavaScript, CRUD | Designed and implemented a full-stack web application to visualise IP geolocation, with user login functionality and search history logging, deployed on Google Cloud using Flask and Cloud SQL. |
+
+
+---
+### Python
+| Project Link | Completion Date | Tools | Project Description |
+|--------------|-----------------|-------|----------------------|
+
+---
+### SQL
+| Project Link | Completion Date | Tools | Project Description |
+|--------------|-----------------|-------|----------------------|
+
+---
+### Power BI
+| Project Link | Completion Date | Tools | Project Description |
+|--------------|-----------------|-------|----------------------|
+
+---
+### NLP
+| Project Link | Completion Date | Tools | Project Description |
+|--------------|-----------------|-------|----------------------|
+|[Custom Convolutional Neural Network (CNN) for Image Classification](#)|May 2024|Python, PyTorch, CNN, ResNet|----------------------|
