@@ -1,46 +1,30 @@
 # 👋 Hi, I'm Amy Liu
 
 🎓 MSc Big Data Science @ Queen Mary University of London  
-📊 Data Analyst | Finance & IT Intern @ Lotus Technology  
-🛠 Python | SQL | Power BI | Flask | LLMs | Cloud  
-🌍 Bilingual: English 🇬🇧 / Mandarin 🇨🇳
+📊 Aspiring Data Professional | Open to:  
+→ Data Analyst · BI Developer · Business Data Analyst · Data Automation Roles  
 
 ---
 
 ## 🚀 About Me
 
-I'm a data-driven problem solver passionate about transforming raw data into meaningful insights.  
-With hands-on experience in **Finance**, **IT**, and **Analytics**, I enjoy building tools that automate workflows, generate real-time business intelligence, and integrate AI into enterprise solutions.
+I'm a **multidisciplinary data analyst** with hands-on experience in data pipelines, business intelligence, and automation.  
+My background bridges **Finance, IT, and Machine Learning**, allowing me to deliver insights and tools across departments.
 
----
-
-## 💼 Projects & Highlights
-
-- 🧠 **AI-Powered Internal Chatbot**  
-  Built with DeepSeek LLM + Retrieval-Augmented Generation (RAG) using Flask & JavaScript  
-  → Reduced IT ticket volume by 60% | 85%+ accuracy in live use  
-
-- 📊 **Revenue Intelligence Dashboard**  
-  Designed interactive Power BI dashboard for exec-level sales & cost analysis  
-  → Identified 15% EV sales shortfall in APAC | Reduced reporting time by 90%  
-
-- 📑 **Financial Statement Automation**  
-  Python-based reconciliation for 120K+ rows of AP/AR data  
-  → Report time cut from 5 min to <1 sec | 90% error reduction  
-
-- 📬 **Invoicing Workflow Automation**  
-  Automated PDF creation and email dispatch for IT asset invoices  
-  → Saved 30+ hours/month  
+✅ Open to roles in:  
+- **Data Analysis** (Python, SQL, Excel)  
+- **BI & Dashboarding** (Power BI, DAX)  
+- **Workflow Automation & AI Integration** (Flask, LLMs)  
+- **Data Engineering & Reporting Pipelines**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**: Python, SQL, JavaScript, R  
-**Tools**: Power BI, Flask, Pandas, Excel, Git, Jupyter  
-**Data**: ETL, Data Wrangling, ML (Classification, Clustering), DAX  
-**Cloud**: GCP, BigQuery, Docker  
-**Extras**: DeepSeek LLM, OneTrust, SMTP, HTML/CSS
+**Languages**: Python, SQL, R, JavaScript  
+**Tools**: Power BI, Excel, Flask, Git, Pandas  
+**Focus Areas**: Data Wrangling, ML (classification, clustering), ETL, RAG/LLM, Automation  
+**Cloud**: GCP, BigQuery, Docker
 
 ---
 
