@@ -47,7 +47,7 @@ With hands-on experience in **Finance**, **IT**, and **Analytics**, I enjoy buil
 ## 📫 Let's Connect!
 
 - 📧 Email: [Amy04Liu@gmail.com](mailto:Amy04Liu@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/amyliu0825/) *(替换为你的真实链接)*  
+- 💼 LinkedIn: [https://www.linkedin.com/in/amyliu0825/]
 - 🧪 Exploring: Generative AI for business tools, DataOps, scalable ML pipelines
 
 ---
