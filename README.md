@@ -1,32 +1,21 @@
 # 👋 Hi, I'm Amy Liu
 
-🎓 MSc Big Data Science @ Queen Mary University of London  
-📊 Aspiring Data Professional | Open to:  
-→ Data Analyst · BI Developer · Business Data Analyst · Data Automation Roles  
+I'm a multidisciplinary data analyst with a strong foundation in finance, IT, and big data technologies.
 
----
+🧠 I enjoy transforming raw data into actionable insights, developing automated workflows, and crafting interactive dashboards that support decision-making. My work bridges technical execution with business context, and I'm especially interested in how AI and automation can streamline real-world operations.
 
-## 🚀 About Me
+🔧 **Tech I Use**:  
+Python (Pandas, Scikit-learn, Flask) · SQL · Power BI · Excel · DAX · Git · GCP · R
 
-I'm a **multidisciplinary data analyst** with hands-on experience in data pipelines, business intelligence, and automation.  
-My background bridges **Finance, IT, and Machine Learning**, allowing me to deliver insights and tools across departments.
+🚀 **Projects I'm Proud Of**:  
+- Built an internal chatbot with DeepSeek LLM + RAG architecture to automate IT support (85%+ accuracy)  
+- Designed a Power BI revenue dashboard used by executive teams across multiple global regions  
+- Automated 120K-row financial reports using Python, reducing time from minutes to seconds
 
-✅ Open to roles in:  
-- **Data Analysis** (Python, SQL, Excel)  
-- **BI & Dashboarding** (Power BI, DAX)  
-- **Workflow Automation & AI Integration** (Flask, LLMs)  
-- **Data Engineering & Reporting Pipelines**
-
----
-
-## 🧰 Tech Stack
-
-**Languages**: Python, SQL, R, JavaScript  
-**Tools**: Power BI, Excel, Flask, Git, Pandas  
-**Focus Areas**: Data Wrangling, ML (classification, clustering), ETL, RAG/LLM, Automation  
-**Cloud**: GCP, BigQuery, Docker
-
----
+🌱 I'm currently exploring:  
+- Retrieval-Augmented Generation (RAG)  
+- Generative AI in enterprise tools  
+- DataOps and scalable data pipelines
 
 ## 📫 Let's Connect!
 
