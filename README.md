@@ -35,5 +35,5 @@ I'm a multidisciplinary data analyst with a strong foundation in finance, IT, an
 
 | Project Link | Completion Date | Tools | Project Description |
 |--------------|-----------------|-------|----------------------|
-| 🚕 [https://github.com/amy0825/Map_mini_project.git](#) | December 2023 | Python, GCP (Storage, Compute Engine, BigQuery), CRUD | Developed and implemented an end-to-end ETL pipeline for NYC Trip Records. |
+| 🌐 [IP Visualisation](https://github.com/amy0825/Map_mini_project) | Dec 2023 | Python, GCP (Storage, Compute Engine, BigQuery), CRUD | Designed and implemented a full-stack web application to visualise IP geolocation, with user login functionality and search history logging, deployed on Google Cloud using Flask and Cloud SQL. |
 | 🐶 [Dog Adoption](#) | Mar 2023 | Python, PostgreSQL, Jupyter Notebook | Designed and deployed a custom data model for dog adoption data using PostgreSQL. |
