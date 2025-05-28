@@ -25,19 +25,21 @@ I'm a multidisciplinary data analyst with a strong foundation in finance, IT, an
 ---
 ## 🚀 Projects
 
-### Data Engineering
-
+### End-to-End Workflow Solutions
 | Project Link | Completion Date | Tools | Project Description |
 |--------------|-----------------|-------|----------------------|
-|[Real-Time Health Monitoring](#)|Jul 2024|Python, Flask, BigQuery, GNB, ETL|----------------------|
-| 🚗 [New York City Taxi](#) | Feb 2024 | Python, PySpark, Hadoop, SQL, S3 Bucket, Jupyter Notebook | Led and optimized a large-scale PySpark ETL pipeline to process 69 million NYC rideshare records, improving computation efficiency by 30% and uncovering key geographic and temporal demand patterns. |
+|💭 [AI Chatbot for Internal IT Support](#)|Feb 2025|Python, Flask, JavaScript, LLM, RAG, JSON|Developed and deployed an internal AI assistant using DeepSeek LLM with RAG architecture to handle employee IT queries.|
+|⌚ [Real-Time Health Monitoring](#)|Jul 2024|Python, Flask, BigQuery, GNB, ETL|----------------------|
 | 🌐 [IP Visualisation](https://github.com/amy0825/Map_mini_project) | Dec 2023 | Python, GCP (Storage, Compute Engine, SQL, VM), JavaScript, CRUD | Designed and implemented a full-stack web application to visualise IP geolocation, with user login functionality and search history logging, deployed on Google Cloud using Flask and Cloud SQL. |
-
-
 ---
+
 ### Python
 | Project Link | Completion Date | Tools | Project Description |
 |--------------|-----------------|-------|----------------------|
+|[Invoicing Workflow Automation](#)|Mar 2025|Python, Excel, SMTP|----------------------|
+|[Automated Financial Reporting Pipeline](#)|Jan 2025|Python, Excel, ETL|----------------------|
+| 🚗 [New York City Taxi](#) | Feb 2024 | Python, PySpark, Hadoop, SQL, S3 Bucket, Jupyter Notebook | Led and optimized a large-scale PySpark ETL pipeline to process 69 million NYC rideshare records, improving computation efficiency by 30% and uncovering key geographic and temporal demand patterns. |
+
 
 ---
 ### SQL
@@ -48,6 +50,7 @@ I'm a multidisciplinary data analyst with a strong foundation in finance, IT, an
 ### Power BI
 | Project Link | Completion Date | Tools | Project Description |
 |--------------|-----------------|-------|----------------------|
+|[Revenue Analyse Dashboard](#)|Apr 2025|SQL, Python, Power BI|----------------------|
 
 ---
 ### NLP
