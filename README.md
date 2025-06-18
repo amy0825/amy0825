@@ -28,7 +28,7 @@ I'm a multidisciplinary data analyst with a strong foundation in finance, IT, an
 ### End-to-End Workflow Solutions
 | Project Link | Completion Date | Tools | Project Description |
 |--------------|-----------------|-------|----------------------|
-|💭 AI Chatbot for Internal IT Support|May 2025|Python, Flask, JavaScript, LLM, RAG, JSON|Developed and deployed an internal AI assistant using DeepSeek LLM with RAG architecture to handle employee IT queries.|
+|💭 [AI Chatbot for Internal IT Support](https://amy0825.github.io/AI_Chat.html)|May 2025|Python, Flask, JavaScript, LLM, RAG, JSON|Developed and deployed an internal AI assistant using DeepSeek LLM with RAG architecture to handle employee IT queries.|
 |⌚ Real-Time Health Monitoring|Aug 2024|Python, Flask, BigQuery, GCP, Echarts, Scikit-learn|Real-time wearable data analytics system delivering personalised heart risk predictions (85% accuracy), powered by cloud-based ETL, ML models, and interactive dashboards.|
 | 🌐 [IP Visualisation](https://github.com/amy0825/Map_mini_project) | Dec 2023 | Python, GCP (Storage, Compute Engine, SQL, VM), JavaScript, CRUD | Designed and implemented a full-stack web application to visualise IP geolocation, with user login functionality and search history logging, deployed on Google Cloud using Flask and Cloud SQL. |
 ---
